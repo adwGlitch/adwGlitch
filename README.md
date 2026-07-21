@@ -104,12 +104,12 @@ adwaith@core-os:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adwGlitch&show_icons=true&theme=react&bg_color=0D1117&title_color=00F0FF&icon_color=9D4EDD&text_color=C9D1D9&border_color=00F0FF&hide_border=false&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adwGlitch&show_icons=true&theme=react&bg_color=0D1117&title_color=00F0FF&icon_color=9D4EDD&text_color=C9D1D9&border_color=00F0FF&hide_border=false&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adwGlitch&theme=react&background=0D1117&stroke=00F0FF&ring=9D4EDD&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8A9BFF&border=00F0FF&hide_border=false" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwGlitch&layout=compact&theme=react&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adwGlitch&layout=compact&theme=react&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&hide_border=false" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adwGlitch&bg_color=0D1117&color=00F0FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="49%"/>
 
 </div>
