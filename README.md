@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/github/followers/adwGlitch?label=FOLLOWERS&style=for-the-badge&color=9D4EDD&logo=github" alt="followers badge"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=white" alt="status badge"/>
 
+<br/>
+<img src="assets/avatar.png" width="220" height="220" style="border-radius: 50%;" alt="Adwaith Cybernetic Avatar"/>
+<br/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:9D4EDD&height=2&width=100%25" width="100%"/>
